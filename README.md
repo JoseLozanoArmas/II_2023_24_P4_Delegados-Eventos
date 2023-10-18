@@ -7,6 +7,7 @@ El objetivo de esta práctica es el de poner en práctica lo aprendido sobre del
 ### Ejercicio 1
 A partir de la escena que has estado utilizando en las últimas prácticas, crea la siguiente mecánica. Cuando el cubo colisiona con el cilindro, las esferas de tipo 1 cambian su color y las esferas de tipo 2 se desplazan hacia el cilindro.
 Ayuda: La colisión con el cilindro será manejada con alguno de los eventos OnCollider u OnTrigger según su configuración. El cilindro debe enviar un mensaje. Las esferas deben estar suscritas a ese mensaje y según el grupo al que pertenezcan implementarán la función de callback correspondiente.
+![Ejercicio 1](/gifs/P4-EJ-1.gif)
 
 ### Ejercicio 2
 Adapta la escena anterior para que:
