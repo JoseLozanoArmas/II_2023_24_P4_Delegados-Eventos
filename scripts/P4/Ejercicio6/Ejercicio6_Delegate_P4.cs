@@ -8,7 +8,8 @@
 * Autor: José Lozano Armas
 * Correo: alu0101392561@ull.es
 * Fecha: 19/10/23
-* Script que sirve para crear un evento que partiendo del script anterior cree una interfaz que muestre la puntuación que va obteniendo el cubo. 
+* Script que sirve para crear un evento que genere una escena que incluya elementos que se ajusten a la escena del prototipo y 
+* alguna de las mecánicas anteriores.
 * Referencias: https://docs.google.com/document/d/1f1fie9tx9cjhXi8gPyOTFDZIxWlraf5TCP9onbRMD54/edit?usp=sharing
 * Enlaces de interés
 * Historial de revisiones
@@ -18,7 +19,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ejercicio5_Cube_Listener_P4 : MonoBehaviour
+public class Ejercicio6_Delegate_P4 : MonoBehaviour
 {
     public Ejercicio4_Delegate_P4[] EJ4;
     public int points;
