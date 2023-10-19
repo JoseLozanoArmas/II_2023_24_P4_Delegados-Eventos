@@ -41,4 +41,3 @@ Ayuda: La interfaz se genera con el objeto Canvas, que actúa como contenedor de
 ### Ejercicio 6
 Genera una escena que incluya elementos que se ajusten a la escena del prototipo y alguna de las mecánicas anteriores.
 ![Ejercicio 6](/gifs/P4-EJ-6.gif)
-De cara a este punto quize implementar una idea de juego en la que un helicóptero fuese recogiendo esferas, sin embargo tuve problemas a la hora de implementar dicho objeto y lo simplifiqué usando el cubo y recoloreando las esferas, haciendo que las azules valgan 5 puntos y las amarillas 10
